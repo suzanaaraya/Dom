@@ -1,0 +1,21 @@
+.counter-container{
+    background-color: aliceblue;
+    margin: 100px;
+    padding:20px;
+    align-items:center;
+    display: inline-block;
+
+}
+
+
+
+button#startCountdown {
+    background-color: #ffcc00;
+    color: black;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+  }
+  
